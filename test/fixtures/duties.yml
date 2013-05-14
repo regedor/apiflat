@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  done_at: 2013-05-13
+  value: 1
+  person_id: 1
+
+two:
+  done_at: 2013-05-13
+  value: 1
+  person_id: 1
