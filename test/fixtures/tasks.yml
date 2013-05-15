@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  done_at: 2013-05-15
+  value: 1
+  person_id: 1
+  task_type_id: 1
+  home_id: 1
+
+two:
+  done_at: 2013-05-15
+  value: 1
+  person_id: 1
+  task_type_id: 1
+  home_id: 1
